@@ -1,3 +1,3 @@
 # hello-world
 Just messing about with git
-Noe i amm playing with my first branch
+Now i am playing with my first branch
